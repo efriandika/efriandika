@@ -3,7 +3,7 @@
   <br>
   <samp>
     <p>
-      I'm a <strong>Senior Fullstack Software Engineer</strong> at one of the biggest bank in my country by day and a programming language tinkerer by night. I love to explore new tech trends.  <strong>Currently writing beautiful frontend with react and also moving from java to kotlin</strong> 😼.
+      I'm a <strong>Senior Fullstack Engineer</strong> at one of the biggest bank in my country by day and a programming language tinkerer by night. I love to explore new tech trends.  <strong>Currently writing beautiful frontend with react and also moving from java to kotlin</strong> 😼.
     </p>
     <p>
       Apart from that, I also love to <strong>implement patterns, algorithms and data structures</strong> just to think them through to really "get" them, make my code performance great and share my newfound knowledge with everyone. 
