@@ -3,7 +3,7 @@
   <br>
   <samp>
     <p>
-      I'm a <strong>Senior Software Engineer</strong>, previously was working in one of the biggest bank in my home country and now I have been relocated to Amsterdam as part of Backabse R&D B.V. by day. I am also a programming language tinkerer by night. I love to explore new tech trends.  <strong>Currently writing beautiful frontend with mostly angular, react and also moving from java to kotlin</strong> 😼.
+      I'm a <strong>Senior Software Engineer</strong>, previously was working in one of the biggest bank in my home country, then moving to Amsterdam to join an incredible fintech company and now I am part of JP Morgan & Chase UK by day. I am also a programming language tinkerer by night. I love to explore new tech trends.  <strong>Currently writing beautiful frontend with mostly angular, react and also moving from java to kotlin</strong> 😼.
     </p>
     <p>
       Apart from that, I also love to <strong>implement design patterns, algorithms and data structures</strong> just to think them through to really "get" them, make my code performance great and share my newfound knowledge with everyone. 
