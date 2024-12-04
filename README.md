@@ -38,7 +38,7 @@
 
 - 🔭 I’m currently working on few Projects by using (React, Spring Boot, Java and Kotlin)
 - 🌱 I’m currently interested in Kotlin
-- 💬 Ask me about React, Angular, Spring Boot, Laravel (I used to use Laravel heavily in my side project)
+- 💬 Ask me about React, Angular, Spring Boot
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/efriandika/">
 		<img align="center" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 	</a>
