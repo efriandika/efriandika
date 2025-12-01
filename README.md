@@ -36,7 +36,7 @@
 
 ****
 
-- 🔭 I’m currently working on few Projects by using (React, Spring Boot, Java and Kotlin)
+- 🔭 I’m currently working on few Projects (React, Spring Boot, Java and Kotlin)
 - 🌱 I’m currently interested in Kotlin
 - 💬 Ask me about React, Angular, Spring Boot
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/efriandika/">
