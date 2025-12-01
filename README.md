@@ -3,7 +3,7 @@
   <br>
   <samp>
     <p>
-      I'm a <strong>Senior Software Engineer</strong> with a diverse background, previously was working in one of the biggest bank in my home country, then moving to Amsterdam to join an incredible fintech company and now I am part of JP Morgan & Chase UK by day. I am also a programming language tinkerer by night. I love to explore new tech trends.  <strong>Currently writing beautiful frontend with mostly angular, react and also moving from java to kotlin</strong> 😼.
+      I'm a <strong>Senior Software Engineer</strong> with a diverse background, having previously worked at one of the largest banks in my home country before moving to Amsterdam to join an innovative fintech company. Now, I’m part of JP Morgan & Chase UK by day, and a programming language enthusiast by night. I enjoy exploring new technology trends. <strong>Currently writing beautiful frontend with mostly react, angular, while transitioning from Java to Kotlin.</strong> 😼.
     </p>
     <p>
       I also enjoy playing around with design patterns, algorithms, and data structures—sometimes just for fun, to really understand how they work, boost my code’s performance, and share what I learn with others.
